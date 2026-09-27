@@ -1,6 +1,6 @@
 # How Tos
 
-Welcome to **How Tos**! The ultimate destination for guided tutorials that won't make you want to throw your keyboard out the window or maybe just slightly less often.
+This is **How Tos**! The ultimate destination for guided tutorials that won't make you want to throw your keyboard out the window or maybe just slightly less often.
 
 ## Features
 
